@@ -1,5 +1,11 @@
 # Generation of 3-component ground motion data by styleGAN2
 
+This repository contains the code and hyperparameters for the paper:
+
+"Yuma MATSUMOTO and Taro YAOYAMA and Sangwon LEE and Takenori HIDA and Tatsuya ITOI; Probabilistic Three-Component Ground Motion Time History Generation Modeling Using Deep Generative Model. Journal of Japan Association for Earthquake Engineering, Vol. 24, No. 4, pp. 4_12-4_25; doi: https://doi.org/10.5610/jaee.24.4_12. (in Japanese with English abstract)
+
+Please cite this paper if you use the code in this repository as part of a published research project.
+
 ## Operating Environment
 The codes in this repository has been tested and is known to run under the following environment:
 - Ubuntu 20.04.6 LTS
